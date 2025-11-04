@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JTech Forums to SK Website Redirector
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Redirects from JTech Forums to the new SK website, preserving the path. Handles direct visits and Techloq block pages with persistent polling.
 // @author       Shalom Karr / YH Studios
 // @match        *://forums.jtechforums.org/*
