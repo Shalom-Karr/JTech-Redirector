@@ -17,7 +17,7 @@
 
     // --- CONFIGURATION ---
     const SOURCE_DOMAIN = 'forums.jtechforums.org';
-    const TARGET_DOMAIN = 'https://jtechwebsite.shalomkarr.workers.dev';
+    const TARGET_DOMAIN = 'https://forum.jtech-proxy.workers.dev/';
 
     // Polling Settings for Techloq
     const MAX_TECHLOQ_RETRIES = 1200; // 5 minutes (1200 * 250ms)
